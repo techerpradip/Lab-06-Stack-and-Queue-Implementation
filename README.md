@@ -11,6 +11,7 @@ Worked Files:
   2. linkedStack.h / linkedStack-inl.h
   3. maze.h / maze.cpp
   4. main.cpp
+  5. WrittenLab.pdf
 
 
 Link to lab website: https://www.cs.swarthmore.edu/courses/cs35/f22/labs/06/
